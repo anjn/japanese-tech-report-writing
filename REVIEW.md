@@ -1468,104 +1468,104 @@
 
 ## 再構築後の移行先
 
-各項目の詳細と比較用の原文をレビュー資料に保持した。執筆時の原則はSKILL.md、文書別の構成判断はreferences/writing.mdへ要約している。C02は不採用の判断例として残し、実行する指示にはしない。新しい文書種別のガイドは合意した利用目的に基づく追加である。
+各項目の実行用規範をレビュー資料へ統合した。判断理由と比較用の原文はこの記録に保持する。執筆時の原則はSKILL.md、文書別の構成判断はreferences/writing.mdへ要約している。C02の不採用判断はこの記録に残し、実行用資料には情報を演出のために伏せない方針だけを記す。新しい文書種別のガイドは合意した利用目的に基づく追加である。
 
 | ID | 項目 | 詳細の移行先 |
 |---|---|---|
-| R01 | 推量を断定に変えない | references/review.md の「R01」 |
-| R02 | 因果の説明 | references/review.md の「R02」 |
-| R03 | 断定を強める推敲 | references/review.md の「R03」 |
-| R04 | 定義を置く位置 | references/review.md の「R04」 |
-| R05 | 例の現実性を支える根拠 | references/review.md の「R05」 |
-| B01 | 書き始める前の確認 | references/review.md の「B01」 |
-| B02 | 手順から推測できる説明 | references/review.md の「B02」 |
-| B03 | 失敗した試行の経緯 | references/review.md の「B03」 |
-| B04 | 実施していない項目 | references/review.md の「B04」 |
-| B05 | 確認していない事実 | references/review.md の「B05」 |
-| K01 | 異なる対象の区別 | references/review.md の「K01」 |
-| K02 | 複数の要因の区別 | references/review.md の「K02」 |
-| K03 | 概念の一貫性 | references/review.md の「K03」 |
-| K04 | 主張と例の対応 | references/review.md の「K04」 |
-| K05 | 参照先の確認 | references/review.md の「K05」 |
-| T01 | 保証や解決の断定 | references/review.md の「T01」 |
-| T02 | 譲歩で認める内容 | references/review.md の「T02」 |
-| T03 | 否定の対象と根拠 | references/review.md の「T03」 |
-| T04 | 術語に見える一般表現 | references/review.md の「T04」 |
-| T05 | 見出しの内容と形式 | references/review.md の「T05」 |
-| L01 | 主張の反復 | references/review.md の「L01」 |
-| L02 | 情報を残す基準 | references/review.md の「L02」 |
-| L03 | 成功判定の参照 | references/review.md の「L03」 |
-| L04 | 説明の短縮 | references/review.md の「L04」 |
-| L05 | 文字数と冗長さ | references/review.md の「L05」 |
-| C01 | 結論と反論の順序 | references/review.md の「C01」 |
-| C02 | 情報の先出し | references/review.md の「C02」 |
-| C03 | 結論を示す見出し | references/review.md の「C03」 |
-| C04 | 本文の固定順序 | references/review.md の「C04」 |
-| M01 | 未知の概念を説明する順序 | references/review.md の「M01」 |
-| M02 | 抽象語の指す対象 | references/review.md の「M02」 |
-| M03 | 例を追加する理由 | references/review.md の「M03」 |
-| M04 | 並列の事実を一文にまとめること | references/review.md の「M04」 |
-| M05 | 説明を名称に置き換えること | references/review.md の「M05」 |
-| D01 | 対比する定義の文型 | references/review.md の「D01」 |
-| D02 | 限定の後に必ず論を進めること | references/review.md の「D02」 |
-| D03 | 上位概念でまとめること | references/review.md の「D03」 |
-| D04 | 前方参照の位置 | references/review.md の「D04」 |
-| D05 | 人物名の表記 | references/review.md の「D05」 |
-| N01 | 段落の話題と冒頭 | references/review.md の「N01」 |
-| N02 | 隣接する節の統合 | references/review.md の「N02」 |
-| N03 | 説明直後の要約 | references/review.md の「N03」 |
-| N04 | 読み進める間に保持する情報 | references/review.md の「N04」 |
-| N05 | 例に不要な詳細 | references/review.md の「N05」 |
-| Q01 | 数値の再掲の削除 | references/review.md の「Q01」 |
-| Q02 | 説明と確認事項の重複 | references/review.md の「Q02」 |
-| Q03 | 同じ主張と必要な反復の区別 | references/review.md の「Q03」 |
-| Q04 | 補足を置く位置 | references/review.md の「Q04」 |
-| Q05 | 削除してよい段落の判断 | references/review.md の「Q05」 |
-| P01 | 各手順の必須情報 | references/review.md の「P01」 |
-| P02 | 前提と注意の位置 | references/review.md の「P02」 |
-| P03 | ファイル配置のツリー | references/review.md の「P03」 |
-| P04 | 置換箇所と実行可能性 | references/review.md の「P04」 |
-| P05 | 同じ内容を複数の媒体で示すこと | references/review.md の「P05」 |
-| F01 | 概要に含める数値 | references/review.md の「F01」 |
-| F02 | 題名と副題 | references/review.md の「F02」 |
-| F03 | 表・グラフの選択 | references/review.md の「F03」 |
-| F04 | 図表に添える条件 | references/review.md の「F04」 |
-| F05 | スクリプト全文の配置 | references/review.md の「F05」 |
-| X01 | 例についての補足を置く位置 | references/review.md の「X01」 |
-| X02 | 説明用の例であることの明示 | references/review.md の「X02」 |
-| X03 | 図・表・コードの対応 | references/review.md の「X03」 |
-| X04 | まだ導入していない対象への言及 | references/review.md の「X04」 |
-| X05 | 不自然な比喩の点検方法 | references/review.md の「X05」 |
-| A01 | 予告と総括 | references/review.md の「A01」 |
-| A02 | 空虚な形容・動詞 | references/review.md の「A02」 |
-| A03 | 無生物主語と擬人化 | references/review.md の「A03」 |
-| A04 | 比喩を具体化する際の意味の保持 | references/review.md の「A04」 |
-| A05 | 形容詞＋「です」 | references/review.md の「A05」 |
-| W01 | 文書の種類と文体 | references/review.md の「W01」 |
-| W02 | 日本語訳と原語 | references/review.md の「W02」 |
-| W03 | 固有名と識別子の省略 | references/review.md の「W03」 |
-| W04 | 接続表現の必須化 | references/review.md の「W04」 |
-| W05 | 操作の禁止を婉曲にすること | references/review.md の「W05」 |
-| E01 | 誤解の先回り | references/review.md の「E01」 |
-| E02 | 読者との架空の問答 | references/review.md の「E02」 |
-| E03 | 行為者を主語にした説明 | references/review.md の「E03」 |
-| E04 | 太字の回数制限 | references/review.md の「E04」 |
-| E05 | 事故や危険の列挙 | references/review.md の「E05」 |
-| V01 | 読者への呼びかけ | references/review.md の「V01」 |
-| V02 | 架空の人物設定 | references/review.md の「V02」 |
-| V03 | 用語の具体性と慣用 | references/review.md の「V03」 |
-| V04 | 話し言葉による曖昧な評価 | references/review.md の「V04」 |
-| V05 | 緊張や山場を作る演出 | references/review.md の「V05」 |
-| S01 | 姿勢だけを宣言する言葉 | references/review.md の「S01」 |
-| S02 | 接続の型とリズム | references/review.md の「S02」 |
-| S03 | 弱い緩和と称賛 | references/review.md の「S03」 |
-| S04 | 接続や評価だけの文 | references/review.md の「S04」 |
-| S05 | 発想のメタな紹介と著者の弁明 | references/review.md の「S05」 |
-| Z01 | 案内・強調・比喩 | references/review.md の「Z01」 |
-| Z02 | 残す根拠・注意・手順と図表の役割 | references/review.md の「Z02」 |
-| Z03 | 手順の番号と準備の区別 | references/review.md の「Z03」 |
-| Z04 | 例文の文体と本文の統一 | references/review.md の「Z04」 |
-| Z05 | 単位・略語と識別子 | references/review.md の「Z05」 |
+| R01 | 推量を断定に変えない | references/review.md の「根拠と不確実性」 |
+| R02 | 因果の説明 | references/review.md の「根拠と不確実性」 |
+| R03 | 断定を強める推敲 | references/review.md の「根拠と不確実性」 |
+| R04 | 定義を置く位置 | references/review.md の「用語と対象の明確さ」 |
+| R05 | 例の現実性を支える根拠 | references/review.md の「根拠と不確実性」 |
+| B01 | 書き始める前の確認 | references/review.md の「目的と情報の過不足」 |
+| B02 | 手順から推測できる説明 | references/review.md の「手順と実行条件」 |
+| B03 | 失敗した試行の経緯 | references/review.md の「目的と情報の過不足」 |
+| B04 | 実施していない項目 | references/review.md の「目的と情報の過不足」 |
+| B05 | 確認していない事実 | references/review.md の「根拠と不確実性」 |
+| K01 | 異なる対象の区別 | references/review.md の「概念と論理の整合」 |
+| K02 | 複数の要因の区別 | references/review.md の「概念と論理の整合」 |
+| K03 | 概念の一貫性 | references/review.md の「概念と論理の整合」 |
+| K04 | 主張と例の対応 | references/review.md の「根拠と不確実性」 |
+| K05 | 参照先の確認 | references/review.md の「重複と参照の負担」 |
+| T01 | 保証や解決の断定 | references/review.md の「根拠と不確実性」 |
+| T02 | 譲歩で認める内容 | references/review.md の「概念と論理の整合」 |
+| T03 | 否定の対象と根拠 | references/review.md の「概念と論理の整合」 |
+| T04 | 術語に見える一般表現 | references/review.md の「用語と対象の明確さ」 |
+| T05 | 見出しの内容と形式 | references/review.md の「構成と見出し」 |
+| L01 | 主張の反復 | references/review.md の「重複と参照の負担」 |
+| L02 | 情報を残す基準 | references/review.md の「目的と情報の過不足」 |
+| L03 | 成功判定の参照 | references/review.md の「手順と実行条件」 |
+| L04 | 説明の短縮 | references/review.md の「手順と実行条件」 |
+| L05 | 文字数と冗長さ | references/review.md の「重複と参照の負担」 |
+| C01 | 結論と反論の順序 | references/review.md の「構成と見出し」 |
+| C02 | 情報の先出し | references/review.md の「構成と見出し」 |
+| C03 | 結論を示す見出し | references/review.md の「構成と見出し」 |
+| C04 | 本文の固定順序 | references/review.md の「構成と見出し」 |
+| M01 | 未知の概念を説明する順序 | references/review.md の「段落と説明の順序」 |
+| M02 | 抽象語の指す対象 | references/review.md の「用語と対象の明確さ」 |
+| M03 | 例を追加する理由 | references/review.md の「例と媒体間の対応」 |
+| M04 | 並列の事実を一文にまとめること | references/review.md の「段落と説明の順序」 |
+| M05 | 説明を名称に置き換えること | references/review.md の「用語と対象の明確さ」 |
+| D01 | 対比する定義の文型 | references/review.md の「段落と説明の順序」 |
+| D02 | 限定の後に必ず論を進めること | references/review.md の「概念と論理の整合」 |
+| D03 | 上位概念でまとめること | references/review.md の「概念と論理の整合」 |
+| D04 | 前方参照の位置 | references/review.md の「重複と参照の負担」 |
+| D05 | 人物名の表記 | references/review.md の「用語と対象の明確さ」 |
+| N01 | 段落の話題と冒頭 | references/review.md の「段落と説明の順序」 |
+| N02 | 隣接する節の統合 | references/review.md の「段落と説明の順序」 |
+| N03 | 説明直後の要約 | references/review.md の「重複と参照の負担」 |
+| N04 | 読み進める間に保持する情報 | references/review.md の「段落と説明の順序」 |
+| N05 | 例に不要な詳細 | references/review.md の「例と媒体間の対応」 |
+| Q01 | 数値の再掲の削除 | references/review.md の「重複と参照の負担」 |
+| Q02 | 説明と確認事項の重複 | references/review.md の「重複と参照の負担」 |
+| Q03 | 同じ主張と必要な反復の区別 | references/review.md の「重複と参照の負担」 |
+| Q04 | 補足を置く位置 | references/review.md の「重複と参照の負担」 |
+| Q05 | 削除してよい段落の判断 | references/review.md の「目的と情報の過不足」 |
+| P01 | 各手順の必須情報 | references/review.md の「手順と実行条件」 |
+| P02 | 前提と注意の位置 | references/review.md の「手順と実行条件」 |
+| P03 | ファイル配置のツリー | references/review.md の「手順と実行条件」 |
+| P04 | 置換箇所と実行可能性 | references/review.md の「手順と実行条件」 |
+| P05 | 同じ内容を複数の媒体で示すこと | references/review.md の「図表とコードの提示」 |
+| F01 | 概要に含める数値 | references/review.md の「構成と見出し」 |
+| F02 | 題名と副題 | references/review.md の「構成と見出し」 |
+| F03 | 表・グラフの選択 | references/review.md の「図表とコードの提示」 |
+| F04 | 図表に添える条件 | references/review.md の「図表とコードの提示」 |
+| F05 | スクリプト全文の配置 | references/review.md の「図表とコードの提示」 |
+| X01 | 例についての補足を置く位置 | references/review.md の「例と媒体間の対応」 |
+| X02 | 説明用の例であることの明示 | references/review.md の「例と媒体間の対応」 |
+| X03 | 図・表・コードの対応 | references/review.md の「例と媒体間の対応」 |
+| X04 | まだ導入していない対象への言及 | references/review.md の「用語と対象の明確さ」 |
+| X05 | 不自然な比喩の点検方法 | references/review.md の「空疎な表現と不自然な比喩」 |
+| A01 | 予告と総括 | references/review.md の「空疎な表現と不自然な比喩」 |
+| A02 | 空虚な形容・動詞 | references/review.md の「空疎な表現と不自然な比喩」 |
+| A03 | 無生物主語と擬人化 | references/review.md の「空疎な表現と不自然な比喩」 |
+| A04 | 比喩を具体化する際の意味の保持 | references/review.md の「空疎な表現と不自然な比喩」 |
+| A05 | 形容詞＋「です」 | references/review.md の「文体・語り・強調」 |
+| W01 | 文書の種類と文体 | references/review.md の「文体・語り・強調」 |
+| W02 | 日本語訳と原語 | references/review.md の「用語と対象の明確さ」 |
+| W03 | 固有名と識別子の省略 | references/review.md の「用語と対象の明確さ」 |
+| W04 | 接続表現の必須化 | references/review.md の「段落と説明の順序」 |
+| W05 | 操作の禁止を婉曲にすること | references/review.md の「手順と実行条件」 |
+| E01 | 誤解の先回り | references/review.md の「概念と論理の整合」 |
+| E02 | 読者との架空の問答 | references/review.md の「文体・語り・強調」 |
+| E03 | 行為者を主語にした説明 | references/review.md の「文体・語り・強調」 |
+| E04 | 太字の回数制限 | references/review.md の「文体・語り・強調」 |
+| E05 | 事故や危険の列挙 | references/review.md の「手順と実行条件」 |
+| V01 | 読者への呼びかけ | references/review.md の「文体・語り・強調」 |
+| V02 | 架空の人物設定 | references/review.md の「文体・語り・強調」 |
+| V03 | 用語の具体性と慣用 | references/review.md の「用語と対象の明確さ」 |
+| V04 | 話し言葉による曖昧な評価 | references/review.md の「空疎な表現と不自然な比喩」 |
+| V05 | 緊張や山場を作る演出 | references/review.md の「文体・語り・強調」 |
+| S01 | 姿勢だけを宣言する言葉 | references/review.md の「空疎な表現と不自然な比喩」 |
+| S02 | 接続の型とリズム | references/review.md の「段落と説明の順序」 |
+| S03 | 弱い緩和と称賛 | references/review.md の「根拠と不確実性」 |
+| S04 | 接続や評価だけの文 | references/review.md の「空疎な表現と不自然な比喩」 |
+| S05 | 発想のメタな紹介と著者の弁明 | references/review.md の「空疎な表現と不自然な比喩」 |
+| Z01 | 案内・強調・比喩 | references/review.md の「空疎な表現と不自然な比喩」 |
+| Z02 | 残す根拠・注意・手順と図表の役割 | references/review.md の「図表とコードの提示」 |
+| Z03 | 手順の番号と準備の区別 | references/review.md の「手順と実行条件」 |
+| Z04 | 例文の文体と本文の統一 | references/review.md の「文体・語り・強調」 |
+| Z05 | 単位・略語と識別子 | references/review.md の「用語と対象の明確さ」 |
 
 ## 再構築後の確認
 
@@ -1579,3 +1579,7 @@
 | 手順の期待値が概要にも記載されている | 操作の近くに期待値を残す。L01、L03、Q01、Q02が矛盾しない。 |
 | 「有効かもしれない」を強い表現へ推敲する | 根拠を確認せず「必須」と断定しない。R01、R03、S03と具体例が一致する。 |
 | 「サーバーが応答を返します」をレビューする | 無生物主語を理由に書き換えない。A03と執筆の自由を保つ原則が一致する。 |
+
+## レビュー資料の簡潔化
+
+利用者の提案に基づき、references/review.mdから目的・採否・判断理由・適用段階・検討IDを除いた。内容を削るだけでなく、理由欄に含まれていた適用条件を規範へ移し、同じ指示をテーマ別に統合した。判断記録は本ファイルに維持し、94項目の移行先表を現在の見出しへ更新した。表現の具体例は維持した。
